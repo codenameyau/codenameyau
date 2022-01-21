@@ -1,7 +1,7 @@
 # About Me
 Hi there! My name is Jorge. I'm from NYC.
 
-I'm a software engineer with 8+ years of professional experience, specialized in frontend development. 
+I'm a software engineer with 8+ years of professional experience specialized in frontend development. 
 In my freetime you can find me tinkering with machine learning, botting, game development, procedural generation, IT security, 
 blockchain technology, software-defined radio, raspberry pi and linux, and pondering my ever growing list of startup ideas.
 
