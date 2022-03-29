@@ -2,7 +2,7 @@
 Hi there! My name is Jorge. I'm from NYC.
 
 I'm a software engineer with 8+ years of professional experience specialized in frontend development. 
-In my freetime you can find me tinkering with machine learning, botting, game development, procedural generation, IT security, 
+In my freetime you can find me tinkering with botting, game development, machine learning, computer vision, procedural generation, IT security, 
 blockchain technology, software-defined radio, raspberry pi and linux, and pondering my ever growing list of startup ideas.
 
 Outside of tech, I enjoy swimming, biking, eating out, hiking, and immersing in nature. When I'm not outside you can find me solving jigsaw puzzles, fiddling with rubik's cubes, and playing Civ6, catan, dominion and countless other board games.
