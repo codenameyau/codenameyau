@@ -6,4 +6,4 @@ I'm a software engineer with 12+ years of professional software engineering expe
 In my freetime you can find me organizing game nights, playing mahjong, spinning a flowstar, doing photography, drawing, developing games, 
 tinkering with bots, IT security, software-defined radio, raspberry pi, and building my ever growing list of startup ideas.
 
-Outside of tech, I enjoy biking, swimming, eating out, and community building.
+Outside of tech, I enjoy biking, swimming, eating, and community building.
