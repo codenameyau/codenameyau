@@ -1,7 +1,7 @@
 # About Me
 Nice to meet you! My name is Jorge. I'm from NYC. 
 
-I'm a software engineer. Title-wise, I'm a tech lead, senior staff engineer, and senior engineering manager. I've done all of them.
+I'm a software engineer. Title-wise, I'm a tech lead, staff engineer, and senior engineering manager. I've done all of them.
 
 I have been using a computer for as long as I remember and have been making websites since middle school and programming since high school. I graduated from the City College of New York with a BS in Computer Science.
 
