@@ -3,7 +3,7 @@ Nice to meet you! My name is Jorge. I'm from NYC.
 
 I'm a software engineer. Title-wise, I'm a tech lead, staff engineer, and senior engineering manager.
 
-I have been using a computer for as long as I remember and have been making websites since middle school and programming in javascript and python since high school. I graduated from the City College of New York with a BS in Computer Science.
+I have been using a computer for as long as I remember and have been making websites since middle school, and programming in javascript and python since high school. I graduated from the City College of New York with a BS in Computer Science.
 
 I do it all: backend, frontend, product, ui/ux design, building large scale systems and processes, designing and training ai models. 
 
