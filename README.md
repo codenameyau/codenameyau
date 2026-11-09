@@ -7,6 +7,6 @@ I have been using a computer for as long as I remember and have been making webs
 
 I do it all: backend, frontend, product, ui/ux design, building large scale systems and processes, designing and training ai models. 
 
-In my freetime you can find me spinning a flowstar, playing mahjong, organizing game nights. I also enjoy taking photos, biking, swimming, and drawing. Most of my nights are either spent yapping, partying, doom scrolling, or vibe coding now. I automate everything about my life. I also design and make computer games and board games. In my free time, I am tinkering with ai models, computer networks, software-defined radio, linux severs, and raspberry pis.
+In my freetime you can find me spinning a flowstar, playing mahjong, organizing game nights. I also enjoy taking photos, biking, swimming, and drawing. Most of my nights are either spent spending time with friends, doom scrolling, or vibe coding. I automate everything about my life. I also design and make computer games and board games. In my free time, I am tinkering with ai models, computer networks, software-defined radio, linux severs, and raspberry pis.
 
 My HuggingFace Profile 🤗: https://huggingface.co/codenameyau
